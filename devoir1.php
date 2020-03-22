@@ -93,9 +93,6 @@ Exercice 3 :
                               </tr>" ;
                     }
                 echo "</table>" ;
-
         ?>
-
     </body>
-
 </html>
